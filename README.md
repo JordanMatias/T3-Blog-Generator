@@ -1,4 +1,6 @@
-# NextJS - Typescript - MDX - Blog
+# NextJS - Typescript - TailwindCSS - MDX - Blog Generator
+
+### You can create your own blog using this generator with T3 :)
 
 A Next.js starter for your next blog or personal site. Built with:
 
