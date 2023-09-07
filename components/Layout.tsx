@@ -36,6 +36,105 @@ const Layout = ({ children, customMeta }: LayoutProps): JSX.Element => {
             Hunter Chang
           </a>
         </div>
+        <div className="max-w-5xl px-8 mx-auto">
+          Built by{' '}
+          <a
+            className="text-gray-900 dark:text-white"
+            href="https://twitter.com/hunterhchang"
+          >
+            Hunter Chang
+          </a>
+        </div>
+        <div className="max-w-5xl px-8 mx-auto">
+          Built by{' '}
+          <a
+            className="text-gray-900 dark:text-white"
+            href="https://twitter.com/hunterhchang"
+          >
+            Hunter Chang
+          </a>
+        </div>
+        <div className="max-w-5xl px-8 mx-auto">
+          Built by{' '}
+          <a
+            className="text-gray-900 dark:text-white"
+            href="https://twitter.com/hunterhchang"
+          >
+            Hunter Chang
+          </a>
+        </div>
+        <div className="max-w-5xl px-8 mx-auto">
+          Built by{' '}
+          <a
+            className="text-gray-900 dark:text-white"
+            href="https://twitter.com/hunterhchang"
+          >
+            Hunter Chang
+          </a>
+        </div>
+        <div className="max-w-5xl px-8 mx-auto">
+          Built by{' '}
+          <a
+            className="text-gray-900 dark:text-white"
+            href="https://twitter.com/hunterhchang"
+          >
+            Hunter Chang
+          </a>
+        </div>
+        <div className="max-w-5xl px-8 mx-auto">
+          Built by{' '}
+          <a
+            className="text-gray-900 dark:text-white"
+            href="https://twitter.com/hunterhchang"
+          >
+            Hunter Chang
+          </a>
+        </div>
+        <div className="max-w-5xl px-8 mx-auto">
+          Built by{' '}
+          <a
+            className="text-gray-900 dark:text-white"
+            href="https://twitter.com/hunterhchang"
+          >
+            Hunter Chang
+          </a>
+        </div>
+        <div className="max-w-5xl px-8 mx-auto">
+          Built by{' '}
+          <a
+            className="text-gray-900 dark:text-white"
+            href="https://twitter.com/hunterhchang"
+          >
+            Hunter Chang
+          </a>
+        </div>
+        <div className="max-w-5xl px-8 mx-auto">
+          Built by{' '}
+          <a
+            className="text-gray-900 dark:text-white"
+            href="https://twitter.com/hunterhchang"
+          >
+            Hunter Chang
+          </a>
+        </div>
+        <div className="max-w-5xl px-8 mx-auto">
+          Built by{' '}
+          <a
+            className="text-gray-900 dark:text-white"
+            href="https://twitter.com/hunterhchang"
+          >
+            Hunter Chang
+          </a>
+        </div>
+        <div className="max-w-5xl px-8 mx-auto">
+          Built by{' '}
+          <a
+            className="text-gray-900 dark:text-white"
+            href="https://twitter.com/hunterhchang"
+          >
+            Hunter Chang
+          </a>
+        </div>
       </footer>
     </>
   );
